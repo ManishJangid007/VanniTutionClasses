@@ -69,36 +69,6 @@
   <span>Login</span>
 </button1>
       </a>
-
-      <!-- ========== Start login modal ========== -->
-
-
-<!-- Modal -->
-<div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Login</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        jyghggu<br>sjdfnsndvkjslkkn<br>jsdhbfvhvbdf<br>jsdfjhbdfub<br>kshdvhbdhvbuidsbfuivfbvbud<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>
-        jyghggu<br>sjdfnsndvkjslkkn<br>jsdhbfvhvbdf<br>jsdfjhbdfub<br>kshdvhbdhvbuidsbfuivfbvbud<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>
-        jyghggu<br>sjdfnsndvkjslkkn<br>jsdhbfvhvbdf<br>jsdfjhbdfub<br>kshdvhbdhvbuidsbfuivfbvbud<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>
-      </div>
-      <div class="modal-footer">
-        
-        <button type="button" class="loginbutton">Login</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-      
-      <!-- ========== End login modal ========== -->
-
 <br>
       <a style="text-decoration: none;" data-bs-toggle="modal" data-bs-target="#signupModal" type="button">
       <button1 class="bg-success" style="margin-right: 2%; max-width: fit-content;">
@@ -113,34 +83,6 @@
   <span>Signup</span>
 </button1>
       </a>
-
-
-      <!-- ========== Start signup modal ========== -->
-
-      <div class="modal fade" id="signupModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Sign Up</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        jyghggu<br>sjdfnsndvkjslkkn<br>jsdhbfvhvbdf<br>jsdfjhbdfub<br>kshdvhbdhvbuidsbfuivfbvbud<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>
-        jyghggu<br>sjdfnsndvkjslkkn<br>jsdhbfvhvbdf<br>jsdfjhbdfub<br>kshdvhbdhvbuidsbfuivfbvbud<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>
-        jyghggu<br>sjdfnsndvkjslkkn<br>jsdhbfvhvbdf<br>jsdfjhbdfub<br>kshdvhbdhvbuidsbfuivfbvbud<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>wjhfnjfoeh<br>sdnfvnkjnf<br>
-      </div>
-      <div class="modal-footer">
-        
-        <button type="button" class="signupbutton">Sign Up</button>
-      </div>
-    </div>
-  </div>
-</div>
-      
-      <!-- ========== End signup modal ========== -->
-
-
-      <!-- ========== End login & sign up buttons ========== -->
 
     </div>
   </div>
