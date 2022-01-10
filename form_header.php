@@ -50,7 +50,7 @@
           <a class="nav-link" href="education_page.php">Education</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#footer">Contact Us</a>
+          <a class="nav-link" href="#form_footer">Contact Us</a>
         </li>
         
       </ul>
