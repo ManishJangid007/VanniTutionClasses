@@ -1,11 +1,11 @@
 <?php include "form_header.php" ?>
 
 <div class="container" style="margin-top: 5%;">
-<div class="row">
+<div class="row row-cols-1 row-cols-md-2 g-4">
     <div class="col">
-      <img src="assets/login.png" alt="" style="width: 110%">
+      <img src="assets/login.png" alt="" style="width: 120%; margin-left: -10%">
     </div>
-    <div class="col">
+    <div class="col" >
     
     
     <div class="container" style="box-shadow:
@@ -19,7 +19,7 @@
     <form class="needs-validation" novalidate>
   
     <label for="validationCustom01" class="form-label">Username</label>
-    <input type="text" class="form-control" id="validationCustom01" placeholder="Enter Username/Email/Phone No." required style="width: 100%;">
+    <input type="text" class="form-control" id="validationCustom01" placeholder="Enter Username" required style="width: 100%;">
     <div class="valid-feedback">
       Looks good!
     </div>
