@@ -21,11 +21,12 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.css"
       rel="stylesheet"
     />
+    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link href="style.css" rel="stylesheet"/>
     <title>Vaani Tution Point</title>
   </head>
-  <body style="font-family: bahnschrift" class="d-flex flex-column min-vh-100">
+  <body style="font-family: 'Roboto', sans-serif;" class="d-flex flex-column min-vh-100">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
      
   
@@ -43,17 +44,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="education_page.php">Education</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#form_footer">Contact Us</a>
-        </li>
         
       </ul>
+      <a class="nav-link text-muted" href="#form_footer">About Us</a>
+      <a class="nav-link text-muted" href="#form_footer">Contact Us ?</a>
   </div>
   </div>
 <!-- ========== End navigation bar ========== -->

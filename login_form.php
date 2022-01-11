@@ -12,7 +12,7 @@
   9.1px 3.3px 10.3px rgba(0, 0, 0, 0.171),
   30px 11px 82px rgba(0, 0, 0, 0.15)
 ;
- border-radius: 3%; margin-top: 25%; width: 90%">
+ border-radius: 1%; margin-top: 25%; width: 90%">
     
     <br>
     <form class="needs-validation" novalidate>
@@ -33,7 +33,9 @@
       <br>
   
   <div class="col-12">
+    <a href="index.php">
     <button class="btn btn-primary" type="submit">Login</button>
+    </a>
   </div>
 </form>
 <br>
