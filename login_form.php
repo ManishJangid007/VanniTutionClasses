@@ -12,7 +12,7 @@
   9.1px 3.3px 10.3px rgba(0, 0, 0, 0.171),
   30px 11px 82px rgba(0, 0, 0, 0.15)
 ;
- border-radius: 3%; margin-top: 20%; width: 100%">
+ border-radius: 3%; margin-top: 25%; width: 90%">
     
     <br>
     <form class="needs-validation" novalidate>
