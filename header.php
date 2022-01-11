@@ -27,7 +27,7 @@
     <link href="style.css" rel="stylesheet"/>
     <title>Vaani Tution Point</title>
   </head>
-  <body style="font-family: 'Roboto', sans-serif; background-image: url('assets/Animated Shape.svg')" class="d-flex flex-column min-vh-100">
+  <body style="font-family: 'Roboto', sans-serif; background-image: url('assets/Sprinkle.svg')" class="d-flex flex-column min-vh-100">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     
 

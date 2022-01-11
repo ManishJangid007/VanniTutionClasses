@@ -3,31 +3,24 @@
 
   <!-- ========== Start Carousel  ========== -->
   
-<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" style="z-index: -1;">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <div class="carousel-inner">
+  <div class="carousel-inner" style="height: 150%;">
     <div class="carousel-item active">
-      <img src="assets/photo-1461749280684-dccba630e2f6.jpg" class="d-block w-100" alt="...">
+      <img src="assets/c1.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="assets/photo-1462536943532-57a629f6cc60.jpg" class="d-block w-100" alt="...">
+      <img src="assets/c2.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="assets/photo-1622295023576-e4fb6e9e8ba2.jpg" class="d-block w-100" alt="...">
+      <img src="assets/c3.jpg" class="d-block w-100" alt="..."> <!-- resolution 600x300 -->
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
+  
 </div>
 
 <!-- ========== End Carousel ========== -->
@@ -36,7 +29,7 @@
 <!-- ========== Start Teacher Information ========== -->
 
 <br>
-<div class="row" style="margin-left: 10%; margin-right: 10%;">
+<div class="row" style="margin-left: 10%; margin-right: 10%; margin-top: -25%">
   <div class="col-sm-6">
     <div class="card" style="box-shadow:
   2.8px 1.8px 3.8px -10px rgba(0, 0, 0, 0.053),
@@ -45,7 +38,7 @@
   22.3px 14.3px 31px -10px rgba(0, 0, 0, 0.102),
   41.8px 26.7px 58.1px -10px rgba(0, 0, 0, 0.118),
   100px 64px 139px -10px rgba(0, 0, 0, 0.16)
-;
+;margin-bottom:5%
 ">
       <div class="card-body">
         <div class="container">
@@ -95,8 +88,7 @@
   22.3px 14.3px 31px -10px rgba(0, 0, 0, 0.102),
   41.8px 26.7px 58.1px -10px rgba(0, 0, 0, 0.118),
   100px 64px 139px -10px rgba(0, 0, 0, 0.16)
-;
-">
+;">
       <div class="card-body">
       <div class="container">
   <div class="row">
@@ -154,8 +146,10 @@
   41.8px 26.7px 58.1px -10px rgba(0, 0, 0, 0.118),
   100px 64px 139px -10px rgba(0, 0, 0, 0.16)
 ;">
-  <div class="card-header">
-    <h3 style="margin-left: 45%;" class="card-title">Facilities</h3>
+  <div class="card-header justify-content-center">
+
+
+    <h3 class="card-title">Facilities</h3>
   </div>
   <div class="card-body">
   
